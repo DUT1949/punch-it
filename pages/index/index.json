@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "zan-icon": "../../zan-ui-dist/icon/index",
+    "zan-tab": "../../zan-ui-dist/tab/index"
+  }
+}

@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+
+  <!--tab bar-->  
+  <import src="../../our-ui/tabbar/template.wxml"/>
+  <template is="tabBar" data="{{tabBar:bindData.tabBar}}"/>
+</view>
