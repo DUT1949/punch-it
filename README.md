@@ -32,13 +32,13 @@
 
 ###3. zan-ui-dist
 
-引入的(zan-ui)[https://www.youzanyun.com/zanui/weapp#/zanui/base/icon]  的组件
+引入的[zan-ui](https://www.youzanyun.com/zanui/weapp#/zanui/base/icon) 的组件
 
 
 
 ### 4.utils
 
-我也不知道这是啥，我创建项目时候自带的
+我也不知道这是啥，创建项目时候自带的
 
 
 
