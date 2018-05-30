@@ -10,11 +10,11 @@
 
 包含正在进行的项目
 
-####(2) explore 探索
+#### (2) explore 探索
 
 包含新建和搜索功能
 
-####(3) myinfo 个人信息
+#### (3) myinfo 个人信息
 
 包含个人信息和积分
 
@@ -30,7 +30,7 @@
 
 
 
-###3. zan-ui-dist
+### 3. zan-ui-dist
 
 引入的[zan-ui](https://www.youzanyun.com/zanui/weapp#/zanui/base/icon) 的组件
 
