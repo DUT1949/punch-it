@@ -1,2 +1,8 @@
 <!--pages/explore/explore.wxml-->
-<text>pages/explore/explore.wxml</text>
+<view>
+  <text>pages/explore/explore.wxml</text>
+
+  <!--tab bar-->
+  <import src="../../our-ui/tabbar/template.wxml"/>
+  <template is="tabBar" data="{{tabBar:bindData.tabBar}}"/>
+</view>

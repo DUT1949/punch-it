@@ -1,4 +1,6 @@
 // pages/myinfo/myinfo.js
+var template = require('../../our-ui/tabbar/template.js');
+
 Page({
 
   /**
@@ -12,7 +14,8 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-  
+    template.tabbar("tabBar", 2, this) // 2表示第一个tabbar
+
   },
 
   /**
